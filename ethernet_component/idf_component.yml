@@ -1,0 +1,5 @@
+description: "Ethernet ENC28J60 Service"
+version: "1.0.0"
+dependencies:
+  idf:
+    version: ">=5.0.0"
